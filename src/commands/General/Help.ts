@@ -20,7 +20,7 @@ export default class Command extends BaseCommand {
 
     run = async (M: ISimplifiedMessage, parsedArgs: IParsedArgs): Promise<void> => {
             const n = [
-            './assets/videos/chess-win.mp4'
+            './assets/Tohka/tohka-smile.mp44'
         ]
         let rin = n[Math.floor(Math.random() * n.length)]
         if (!parsedArgs.joined) {
@@ -37,10 +37,10 @@ export default class Command extends BaseCommand {
                 }
             }
             let text = `
-            🤍 Konichiwa senpai 🤍
-            ╭─「(づ￣ 3￣)づ」
+            🤍 Konichiwa 🤍
+            ╭─「（ミ￣ー￣ミ）」
             │⋊ ᴜꜱᴇʀ: *${M.sender.username}*
-            │⋊ ɴᴀᴍᴇ: ᖇᎥᑎ
+            │⋊ ɴᴀᴍᴇ: Tohka
             │⋊ ᴘʀᴇꜰɪx: ${this.client.config.prefix}
             │⋊ ᴏᴡɴᴇʀ: <${this.client.config.prefix}mod>
             ╰────────────┈平和                            \n\n`
@@ -111,7 +111,7 @@ const weeb = [
    const misc = [
     {title: 'retrieve', rowId:"rowid1"},
     {title: 'hi', rowId:"rowid1"},
-    {title: 'rin', rowId:"rowid1"},
+    {title: 'tohka', rowId:"rowid1"},
    ]
    const education = [
     {title: 'calculator', rowId:"rowid1"},
@@ -198,10 +198,10 @@ const weeb = [
 
 ]
 const txt = '\n' +
-    ' 🤍 Konichiwa senpai 🤍\n' +
-    '╭─「(づ￣ 3￣)づ」\n' +
+    ' 🤍 Konichiwa 🤍\n' +
+    '╭─「（ミ￣ー￣ミ）」\n' +
     `│⋊ ᴜꜱᴇʀ: *${M.sender.username}*\n` +
-    '│⋊ ɴᴀᴍᴇ:. ᖇᎥᑎ\n' +
+    '│⋊ ɴᴀᴍᴇ:. Tohka\n' +
     '│⋊ ᴘʀᴇꜰɪx: #\n' +
     '│⋊ ᴏᴡɴᴇʀ: <#mod>\n' +
     '╰────────────┈平和                            \n' +
@@ -220,7 +220,7 @@ const txt = '\n' +
     '\n' +
     '🧿 *Misc* 🧿\n'   +
     '\n' +
-    '• ```retrieve, hi, rin```\n' +
+    '• ```retrieve, hi, tohka```\n' +
     '\n' +
     '⚖️ *Moderation* ⚖️\n' +
     '\n' +
@@ -243,9 +243,9 @@ const txt = '\n' +
     '• ```calculator, covid, define, elements, github, urbandictionary, weather```\n' +
     '\n' +
     ' \n' +
-    ' ──❅┈[ ISHTAR ᗷᗝ丅 ]┈❅───\n' +
+    ' ──❅┈[ TOHKA BOT ]┈❅───\n' +
     '┌────────────┈❅\n' +
-    '│   🧨 ᖇᎥᑎ\n'  +
+    '│   🧨 Tohka\n'  +
     '│   ©️ Synthesized Infinity Botto\n' +
     '└────────────┈⁂\n' +
     '❅┈[𝐇𝐚𝐯𝐞 𝐆𝐫𝐞𝐚𝐭 𝐃𝐚𝐲]┈❅\n'             +
@@ -277,9 +277,9 @@ this.client.sendMessage(M.from,button,MessageType.listMessage)
                     //             return void this.client.sendMessage(M.from, { url: rin }, MessageType.video, {quoted:M.WAMessage,
 //             mimetype: Mimetype.gif,
 //             caption: `${text}
-//  ──❅┈[ ᖇᎥᑎ ᗷᗝ丅 ]┈❅───
+//  ──❅┈[ TOHKA BOT ]┈❅───
 // ┌────────────┈❅
-// │   🧨 ᖇᎥᑎ
+// │   🧨 Tohka
 // │   ©️ Synthesized Infinity Botto
 // └────────────┈⁂
 // ❅┈[𝐇𝐚𝐯𝐞 𝐆𝐫𝐞𝐚𝐭 𝐃𝐚𝐲]┈❅
