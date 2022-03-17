@@ -1,5 +1,5 @@
 {
-    "name": "RIN",
+    "name": "TOHKA",
     "description": "Maintained Fork of Void",
     "keywords": [
         "bot",
@@ -11,9 +11,9 @@
         "whatsapp-sticker-bot",
         "whatsapp-botto"
     ],
-    "website": "https://github.com/Oreki-san/RIN#readme",
-    "repository": "https://github.com/Oreki-san/RIN.git",
-    "logo": "https://user-images.githubusercontent.com/77143046/137623471-cbe3e0f5-eb13-4321-abbd-7a1e6e73f9ce.jpg",
+    "website": "https://github.com/NemasisDarkX/Tohka#readme",
+    "repository": "https://github.com/NemasisDarkX/Tohka.git",
+    "logo": "https://wallpaperaccess.com/full/944837.jpg",
     "success_url": "/",
     "env": {
         "PREFIX": {
