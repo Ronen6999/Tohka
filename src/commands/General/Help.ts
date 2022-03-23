@@ -37,10 +37,10 @@ export default class Command extends BaseCommand {
                 }
             }
             let text = `
-            🤍 Konichiwa 🤍
+            🤍 ASTRO 🤍
             ╭─「（ミ￣ー￣ミ）」
             │⋊ ᴜꜱᴇʀ: *${M.sender.username}*
-            │⋊ ɴᴀᴍᴇ: Tohka
+            │⋊ ɴᴀᴍᴇ: Astro
             │⋊ ᴘʀᴇꜰɪx: ${this.client.config.prefix}
             │⋊ ᴏᴡɴᴇʀ: <${this.client.config.prefix}mod>
             ╰────────────┈平和                            \n\n`
@@ -277,9 +277,9 @@ this.client.sendMessage(M.from,button,MessageType.listMessage)
                     //             return void this.client.sendMessage(M.from, { url: rin }, MessageType.video, {quoted:M.WAMessage,
 //             mimetype: Mimetype.gif,
 //             caption: `${text}
-//  ──❅┈[ TOHKA BOT ]┈❅───
+//  ──❅┈[ ASTRO BOT ]┈❅───
 // ┌────────────┈❅
-// │   🧨 Tohka
+// │   🧨 Astro
 // │   ©️ Synthesized Infinity Botto
 // └────────────┈⁂
 // ❅┈[𝐇𝐚𝐯𝐞 𝐆𝐫𝐞𝐚𝐭 𝐃𝐚𝐲]┈❅
