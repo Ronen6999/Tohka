@@ -1,5 +1,5 @@
 {
-    "name": "TOHKA",
+    "name": "ASTRO",
     "description": "Maintained Fork of Void",
     "keywords": [
         "bot",
@@ -12,7 +12,7 @@
         "whatsapp-botto"
     ],
     "website": "https://github.com/NemasisDarkX/Tohka#readme",
-    "repository": "https://github.com/NemasisDarkX/Tohka.git",
+    "repository": "https://github.com/Ronen6999/Tohka.git",
     "logo": "https://wallpaperaccess.com/full/944837.jpg",
     "success_url": "/",
     "env": {
