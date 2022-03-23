@@ -1,7 +1,7 @@
 <div align="center">
 <a href="https://ibb.co/k43JHcH"><img src="https://i.ibb.co/k43JHcH/Yatogami-Tohka.jpg" alt="Yatogami-Tohka" border="0"></a>
 
-# **Tohka : ANIME THEMED WHATSAPP BOT WITH RICH FEATURES**
+# **Astro : ANIME THEMED WHATSAPP BOT WITH RICH FEATURES**
 
 [![CodeFactor](https://www.codefactor.io/repository/github/oreki-san/rin/badge)](https://www.codefactor.io/repository/github/oreki-san/rin)
 
@@ -12,7 +12,7 @@
 Button : If you are deploying normally
 
 
-[![Deploy](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy?template=https://github.com/NemasisDarkX/Tohka.git)
+[![Deploy](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy?template=https://github.com/Ronen6999/Tohka.git)
 
 Button : If you are deploying from a fork
 
