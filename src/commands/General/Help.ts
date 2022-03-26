@@ -41,6 +41,7 @@ export default class Command extends BaseCommand {
             ╭─「（ミ￣ー￣ミ）」
             │⋊ ᴜꜱᴇʀ: *${M.sender.username}*
             │⋊ ɴᴀᴍᴇ: Astro
+            │⋊ DEVELOPER: Ronen Singha 
             │⋊ ᴘʀᴇꜰɪx: ${this.client.config.prefix}
             │⋊ ᴏᴡɴᴇʀ: <${this.client.config.prefix}mod>
             ╰────────────┈平和                            \n\n`
